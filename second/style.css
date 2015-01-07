@@ -1,0 +1,71 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	background-color: #D8D8D8;
+}
+
+.top-header {
+	width: 80%;
+	background-color: white;
+    margin: 0 auto;
+
+	
+}
+.top-content {
+
+   padding: 2%;
+
+}
+.button {
+	width: 10%;
+	padding: 20px;
+	color: white;
+	display: inline-block;
+	margin: 5px 5px 10px 10px;
+
+    text-align: center;
+    
+
+}
+.red {
+	background-color: #bc1616;
+	
+}
+.blue {
+	background-color: blue;
+	
+}
+.second-section {
+	background-color: white;
+	height: 500px;
+	width: 80%;
+	float: left;
+	margin: 1% 0 1% 10%;
+}
+.insert-image {
+	width: 90%;
+	height: 60%;
+	margin: 2% 5%;
+	background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTk3kjMIIOHdTdb_OiYj_vYJ-Zgoo6X0aeN2GhhAOsPVGB_qIeK0QvXzLo");
+
+}
+.second-content {
+	padding: 20px;
+}
+.footer-div {
+	background-color: black;
+	height: 60px;
+	width: 100%;
+	float: left;
+
+
+
+
+}
+.footer-content {
+	color: white;
+	float: right;
+	text-align: right;
+	margin: 2px 20px 2px 20px;
+
+	}
